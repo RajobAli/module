@@ -1,4 +1,12 @@
-h1{
-    font-size: 1.2rem;
-    color: red;
+.container{
+    display: flex;
+    padding: 20px;
+    background-color: rebeccapurple;
+}
+.main{
+
+    padding: 20px;
+    background-color: green;
+    margin: 10px;
+    border-radius: 20%;
 }
